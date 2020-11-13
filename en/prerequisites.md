@@ -3,3 +3,6 @@ description: Présentation générale des prérequis pour l'installation de l'Op
 ---
 
 # Requirements {#requirements}
+## Supported browser
+## Internet connection
+## Supported services
