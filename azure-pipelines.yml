@@ -1,7 +1,7 @@
 # Global variables
 variables:
-  project_name: "Documentation - Isogeo Scan"
-  project_name_clean: "scan"
+  project_name: "Documentation - Isogeo OpenCatalog"
+  project_name_clean: "opencatalog"
   yarn_cache_folder: $(Pipeline.Workspace)/.yarn/cache
 
 trigger:
