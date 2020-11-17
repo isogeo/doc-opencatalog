@@ -1,15 +1,15 @@
 {
     "author": "Isogeo <contact@isogeo.fr>",
-    "name": "isogeo-help-app-scan-fme",
-    "version": "2019.09",
+    "name": "isogeo-help-opencatalog",
+    "version": "2020.11",
     "private": true,
-    "description": "Scan FME Isogeo - Documentation",
+    "description": "OpenCatalog Isogeo - Documentation",
     "license": "CC-BY-NC-SA-4.0",
     "keywords": [
         "isogeo",
         "help",
-        "scan",
-        "FME",
+        "opencatalog",
+        "catalogue",
         "métadonnées",
         "catalogage",
         "inventaire",
@@ -19,7 +19,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/isogeo/doc-scan-fme"
+        "url": "https://github.com/isogeo/doc-opencatalog"
     },
     "scripts": {
         "build": "gitbook build",
