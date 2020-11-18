@@ -1,5 +1,28 @@
 # Générer un OpenCatalog
+## Générer un catalogue de consultation avec OpenCatalog
+Pour créer un OpenCatalog, il suffit de :
+
+1. Dans le menu `Administration`  > `Inventaire` > `Partage`, cliquer sur `Nouveau` ;
+2. Cliquer sur le bouton en forme d&apos;engrenages ;
+3. Sélectionner l’application `OpenCatalog` ;
+4. Sélectionner le ou les catalogues à publier ;
+5. Nommer le partage ;
+6. `Enregistrer` ;
+
+L&apos;URL de consultation de l&apos;openCatalog apparaît alors.
+
+![Gérer les OpenCatalog](/assets/usage/generateOC.PNG)
+
 ## Paramétrer la couleur
+Il est possible d'intégrer l'OpenCatalog directement dans un site. Si vous souhaitez intégrer au mieux les OpenCatalogs dans la charte graphique de votre organisme, vous pouvez sélectionner la couleur principale du thème.
+
+Pour changer la couleur principale du thème :
+1. Dans le menu `Administration` > `Isogeo` > `Paramètres`, changer la couleur.
+
+Pour revenir à la couleur de base, cliquer sur la croix dans la roue de couleur.
+
+![Modifier la couleur](/assets/usage/colorPicker.PNG)
+
 ## Intégrer l'OpenCatalog dans un site (iframe)
 OpenCatalog est développé via l’API Isogeo. Il est designé pour être facilement intégrable dans vos sites web existants (intranet, extranet, portail carto, portail OpenData, IDG, etc.) via une [balise HTML iFrame](https://www.w3schools.com/tags/tag_iframe.asp).
 

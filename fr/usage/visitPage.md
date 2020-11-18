@@ -14,7 +14,7 @@ Des liens de visualisation sont générés pour tous les services respectant les
 
 Pour les Feature Services, l'affichage des informations sémantiques d'une géométrie est possible dans un pop-up au click sur cette géométrie.
 
-![Affichage informations sémantiques](/assets/usage/semantic_infos.PNG)
+![Affichage informations sémantiques](/assets/usage/semanticInfos.PNG)
 
 ### Extraction dynamique dans l'OpenCatalog
 De même, l'extraction est possible pour tous les Feature Services respectant les conditions d'exploitation.
@@ -23,4 +23,4 @@ De même, l'extraction est possible pour tous les Feature Services respectant le
 
 Selon les capacités du serveur associé, OpenCatalog génère un formulaire d'extraction automatisée. Le formulaire propose alors l'extraction en tous les formats d'intérêt disponibles et tous les systèmes de coordonnées disponibles pour la couche.
 
-![Formulaire d'extraction](/assets/usage/extract.PNG)
+![Formulaire d'extraction](/assets/usage/extractionModal.PNG)

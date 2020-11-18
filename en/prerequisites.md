@@ -11,6 +11,8 @@ To access an OpenCatalog, the following browsers are supported:
 * Google Chrome 86 and higher ;
 * Edge 86 and higher ;
 
+![Supported browsers](/assets/requirements/supportedBrowsers.PNG)
+
 ## Internet connection
 
 A minimum Internet download speed of **500 Kilobits per second** is required for accessing OpenCatalog

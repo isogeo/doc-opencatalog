@@ -14,7 +14,7 @@ Visualisation links are generated for every service that satisfies the condition
 
 For Feature Services, the semantic informations of a geometry are displayed in a pop-up on click.
 
-![Displayed semantic informations](/assets/usage/semantic_infos.PNG)
+![Displayed semantic informations](/assets/usage/semanticInfos.PNG)
 
 ### Export services
 Extracting services is possible for every Feature Services satisfying the conditions of use.
@@ -23,4 +23,4 @@ Extracting services is possible for every Feature Services satisfying the condit
 
 Depending on the capabilities of the server, OpenCatalog generate a extraction form. The form offer every formats of interest available as well as all the layer's available coordinates systems.
 
-![Extraction Form](/assets/usage/extract.PNG)
+![Extraction Form](/assets/usage/extractionModal.PNG)

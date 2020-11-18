@@ -1,5 +1,28 @@
 # Generate
+## Generate a consultation catalog with openCatalog
+To create an instance of OpenCatalog, do the following :
+
+1. In the `Aministration` > `Inventory` > `Shares`, click on `New`
+2. Click on the gearwheel
+3. Select application `OpenCatalog`
+4. Sekect the catalog(s) to publish
+5. Name the Shares
+6. `Create`
+
+The consultation URL is displated.
+
+![Manage the catalogs](/assets/usage/generateOC.PNG)
+
 ## Chose color
+It is possible to integrate OpenCatalog directly in a webSite. If you want to fit the OpenCatalog colors to your organism's graphical charter, it is possible to chose one main color.
+
+To change this main color :
+1. In the `Administration` > `Isogeo` > `Settings`, change the color.
+
+To go back to the original color, click on the large cross in the color picker.
+
+![Change the color](/assets/usage/colorPicker.PNG)
+
 ## Integrating the OpenCatalog in a website (iframe)
 OpenCatalog is developed via the Isogeo API. It was designed to be easily integrated in existing websites (intranet, extranet, mapping portal, OpenData portal, spatial data infrastructure, etc.) via an [iFrame HTML tag](https://www.w3schools.com/tags/tag_iframe.asp).
 
