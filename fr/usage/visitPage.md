@@ -1,8 +1,14 @@
 # Consulter une page
 ## Champs
+Les champs disponibles dépendent du type de la donnée. Pour chaque type de donnée, tous les champs remplissables depuis l'interfaction d'administration APP sont disponibles.
+
 ## Export (XML, Impression)
 ### Téléchargement au format XML
 ### Téléchargement des métadonnées en pdf
+Il est possible de générer un pdf contenant les métadonnées pour l'imprimer directement depuis l'OpenCatalog, en cliquant sur le bouton imprimer.
+
+Ce pdf reprend toutes les metadonnées disponibles au moment de l'impression.
+
 ## Exploitation des services
 Les conditions d'exploitation sont présentées dans la partie Prérequis.
 ### Visualisation dans l'OpenCatalog

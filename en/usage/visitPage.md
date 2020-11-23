@@ -1,8 +1,30 @@
 # Visit page
 ## Fields
+The displayed fields depend on the type of data. For each data type, if a field is fillable in APP, it is displayed in the page.
+
+|  | Vecteur | Raster | Service | Ressource |
+| ------ | :--------: |:------: | :-----------: | :------: |
+| **Abstract** | - | - | - | - |
+| Abstract | x | x | x | x |
+| **History** | - | - | - | - |
+| Creation date | x | x | x | x |
+| Modification date | x | x | x | x |
+| Validity start | x | x |  |  |
+| Validity end | x | x |  |  |
+| Collection context | x | x |  |  |
+| Collection method | x | x |  |  |
+| Update frequency | x | x |  |  |
+|  Comments | x | x |  |  |
+| **Attriutes** | - | - | - | - |
+| Attributes table | x | x |  |  |
+
 ## Export (XML, print)
 ### Export in XML
 ### Export in pdf
+It is possible to generate a pdf with the metadata file to print directly from OpenCatalog, by clicking on the printing button.
+
+All the metadata currently available are printed.
+
 ## Use services
 The conditions of use are explained in the Requirements.
 ### Visualisation of services
