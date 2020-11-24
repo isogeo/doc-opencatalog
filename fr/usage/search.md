@@ -13,12 +13,13 @@ Les filtres sont appliqués selon un critère de 'et strict', c'est à dire que 
 ### Barre de recherche
 
 Une barre de recherche est disponible.
-![Barre de recherche](/assets/usage/researchBar.PNG)
+![Barre de recherche](/assets/usage/researchBar.png)
 
 #### Utilisation : Autocompletion
 
 #### Utilisation : Nomenclature de tag
 Il est également possible d'utiliser directement la nomenclature de tag isogeo pour requêter.
+
 | Champs | Nomenclature de recherche |
 |:------:|:----------------------------------:|
 | Propriétaire | `owner:` suivi de l'id du propriétaire |

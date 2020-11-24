@@ -13,7 +13,7 @@ The filters are applied following a 'strict and' rule, meaning all criteria must
 ### Search Bar
 
 A search bar is also available
-![Search bar](/assets/usage/researchBar.PNG)
+![Search bar](/assets/usage/researchBar.png)
 
 #### How to use : Autocomplete
 
