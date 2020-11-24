@@ -1,6 +1,6 @@
 # Visit page
 ## Fields
-The displayed fields depend on the type of data. For each data type, if a field is fillable in APP, it is displayed in the page.
+The displayed fields depend on the type of data. For each data type, if a field is fillable in APP, it is displayed on the page.
 
 |  | Vecteur | Raster | Service | Ressource |
 | ------ | :--------: |:------: | :-----------: | :------: |
@@ -14,9 +14,29 @@ The displayed fields depend on the type of data. For each data type, if a field 
 | Collection context | x | x |  |  |
 | Collection method | x | x |  |  |
 | Update frequency | x | x |  |  |
-|  Comments | x | x |  |  |
+| Comments | x | x |  |  |
+| **Associated datasets** | - | - | - | - |
+| Datasets table |  |  |  | x |
+| **Use and access conditions** | - | - | - | - |
+| Licence | x | x | x | x |
+| Description | x | x | x | x |
+| **Limitations** | - | - | - | - |
+| Type | x | x | x | x |
+| Restriction | x | x | x | x |
+| Directive | x | x | x | x |
+| Description | x | x | x | x |
 | **Attriutes** | - | - | - | - |
 | Attributes table | x | x |  |  |
+| **Technical informations** | - | - | - | - |
+| Coordinate system | x | x |  |  |
+| Scale | x | x |  |  |
+| Resolution | x | x |  |  |
+| Layer Name | x | x |  |  |
+| Format | x | x | x | x |
+| **Quality** | - | - | - | - |
+| Specifications | x | x | x | x |
+| **Contacts** | - | - | - | - |
+| Contact | x | x | x | x |
 
 ## Export (XML, print)
 ### Export in XML
