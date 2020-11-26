@@ -8,7 +8,7 @@ Publiée en décembre 2017 :
 
 ### OpenCatalog
 
-* ajout d'un nouveau paramètre' d&apos;URL `no-porxy` à OpenCatalog permettant de passer outre les proxies intégrés afin de consommer les services internes
+* ajout d'un nouveau paramètre' d&apos;URL `no-proxy` à OpenCatalog permettant de passer outre les proxies intégrés afin de consommer les services internes
 
 <!-- /timeline -->
 
