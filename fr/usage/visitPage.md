@@ -1,4 +1,12 @@
 # Consulter une page
+
+Les fiches (de données, d’ensemble de données ou de services) sont présentées de manière à répondre aux besoins des spécialistes comme des non-spécialistes. Elles sont conformes INSPIRE et donnent accès aux fichiers XML ISO 19139.
+
+Elles permettent également de mettre en valeur les ressources associées regroupées en 3 grandes actions :
+* Visualiser
+* Télécharger
+* Accéder à des ressources externes.
+
 ## Champs
 Les champs disponibles dépendent du type de la donnée. Pour chaque type de donnée, tous les champs remplissables depuis l'interfaction d'administration APP sont disponibles.
 
@@ -40,6 +48,8 @@ Les champs disponibles dépendent du type de la donnée. Pour chaque type de don
 
 ## Export (XML, Impression)
 ### Téléchargement au format XML
+Il est possible de télécharger les ressources au format ISO 19139.
+
 ### Téléchargement des métadonnées en pdf
 Il est possible de générer un pdf contenant les métadonnées pour l'imprimer directement depuis l'OpenCatalog, en cliquant sur le bouton imprimer.
 

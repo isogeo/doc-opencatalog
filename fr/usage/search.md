@@ -1,4 +1,6 @@
 # Recherche une donnée
+OpenCatalog dispose d’un moteur de recherche ainsi que des filtres permettant d’accéder rapidement aux fiches descriptives souhaitées (métadonnées), permettant de retrouver une ou des données spécifiques.
+
 ## Filtres
 Deux outils permettent de filter les données :
 * Un module de filtre
@@ -34,10 +36,9 @@ Il est également possible d'utiliser directement la nomenclature de tag isogeo 
 
 Par exemple, rechercher la chaîne de caractère `coordinate-system:2154 action:download` revient à selectionner le système de coordonnées Lambert-93 et l'action Télécharger.
 
-#### Particularités
 Cette nomenclature est notamment utilisée dans l'URL lorsqu'une requête est lancée.
 
-####
+#### Particularités
 De la même manière que le module de filtre, les données sont retournées si tous les critères sont respectés.
 
 ## Tri

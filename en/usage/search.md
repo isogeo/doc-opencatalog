@@ -1,4 +1,6 @@
 # Search
+OpenCatalog has a search engine as well as a filter width allowing quick access to the desired metadata page, making it possible to find one or more specific data.
+
 ## Filters
 There are two tools to filter datasets :
 * A filter widget
@@ -33,6 +35,8 @@ It is also possible to use directly the Isogeo tag nomenclature to query data.
 | Contact | `contact:` or  `contact:group:` depdending on contact type, followed by the contact id |
 
 For instance, querying the string `coordinate-system:2154 action:download` renders the same result as selecting Lambert-93 coordinate system et Download action.
+
+This nomenclature is used in URL when a query is made.
 
 #### Characteristics
 As well as the filter widget, the data are displayed only if all criteria are met.
