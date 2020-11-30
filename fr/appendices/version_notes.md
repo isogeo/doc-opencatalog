@@ -57,7 +57,7 @@ Publiée fin juillet 2017.
 
 <!-- timeline -->
 
-## 2.2. {#v22}
+## 2.2.0-231 {#v220231}
 
 Publiée fin mars 2017.
 
@@ -77,7 +77,7 @@ Consulter :
 
 <!-- timeline -->
 
-## 2. {#v2}
+## 2.2.0-200 {#v220200}
 
 Publiée en septembre 2016.
 
@@ -94,7 +94,7 @@ Consulter :
 
 <!-- timeline -->
 
-## 2. {#v2}
+## 2.2.0 {#v220}
 
 Publiée en juillet 2016.
 
@@ -114,7 +114,7 @@ Consulter :
 
 <!-- timeline -->
 
-## 2. {#v2}
+## 2.1.0 {#v210}
 
 Publiée en avril 2016.
 
@@ -131,7 +131,7 @@ Consulter :
 
 <!-- timeline -->
 
-## 2. {#v2}
+## 2.0.0-143 {#v200143}
 
 Publiée le 16 octobre 2015.
 
@@ -148,7 +148,7 @@ Consulter :
 
 <!-- timeline -->
 
-## 2. {#v2}
+## 2.0.0-130 {#v200130}
 
 Publiée le 10 juillet 2015.
 
@@ -170,7 +170,7 @@ Consulter :
 
 <!-- timeline -->
 
-## 2.0 {#v20}
+## 2.0.0 {#v200}
 
 Publiée le 27 mars 2015.
 
@@ -189,7 +189,7 @@ Consulter :
 
 <!-- timeline -->
 
-## 1. {#1}
+## 1.2.1 {#1}
 
 Publiée fin décembre 2014.
 
@@ -211,7 +211,7 @@ Consulter :
 
 <!-- timeline -->
 
-## 1. {#v1}
+## 1.2.0 {#v120}
 
 Publiée fin septembre 2014.
 
@@ -230,7 +230,7 @@ Consulter :
 
 <!-- timeline -->
 
-## 1. {#v1}
+## 1.1.0 {#v110}
 
 Publiée en juillet 2014.
 

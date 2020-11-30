@@ -36,7 +36,7 @@ Published late july 2017
 
 <!-- timeline -->
 
-## 2.2. {#v22}
+## 2.2.0-231 {#v220231}
 
 Published late march 2017
 
@@ -56,7 +56,7 @@ See also :
 
 <!-- timeline -->
 
-## 2. {#v2}
+## 2.2.0-200 {#v220200}
 
 Published in septembre 2016.
 
@@ -73,7 +73,7 @@ See also :
 
 <!-- timeline -->
 
-## 2. {#v2}
+## 2.2.0 {#v220}
 
 Published in july 2016
 
@@ -93,7 +93,7 @@ See also :
 
 <!-- timeline -->
 
-## 2. {#v2}
+## 2.1.0 {#v210}
 
 Published in april 2016
 
@@ -110,7 +110,7 @@ See also :
 
 <!-- timeline -->
 
-## 2. {#v2}
+## 2.0.0-143 {#v200143}
 
 Published on October 16th 2015.
 
@@ -127,7 +127,7 @@ See also:
 
 <!-- timeline -->
 
-## 2. {#v2}
+## 2.0.0-130 {#v200130}
 
 Published on July 10th 2015
 
@@ -149,7 +149,7 @@ See also :
 
 <!-- timeline -->
 
-## 2.0 {#v20}
+## 2.0.0 {#v200}
 
 Published on march 27th 2015
 
@@ -168,7 +168,7 @@ See also :
 
 <!-- timeline -->
 
-## 1. {#1}
+## 1.2.1 {#1}
 
 Published late december 2014.
 
@@ -190,7 +190,7 @@ See also :
 
 <!-- timeline -->
 
-## 1. {#v1}
+## 1.2.0 {#v1}
 
 Published late september 2014.
 
@@ -209,7 +209,7 @@ See also :
 
 <!-- timeline -->
 
-## 1. {#v1}
+## 1.1.0 {#v1}
 
 Publish in july 2014
 
