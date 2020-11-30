@@ -54,6 +54,23 @@ For instance :
 <iframe src="http://open.isogeo.com/s/344d51c3edfb435daf9d98d948fa207e/Sbd1w7PgqE8n7LDq3azRqNhiMHZf0/m/754209f115c040a48d43ffc262b16500?lock" height="400"></iframe></a>
 ```
 
+### Remove services and resources
+There are four record types :
+* Raster dataset
+* Vector dataset
+* Resource
+* Service
+
+If you want to only show datasets, use mode ``?dataset-only``.
+
+#### How to use
+To use it, simply add ``?dataset-only`` at the end of the web address.
+
+For instance :
+```
+<iframe src="http://open.isogeo.com/s/344d51c3edfb435daf9d98d948fa207e/Sbd1w7PgqE8n7LDq3azRqNhiMHZf0/m/754209f115c040a48d43ffc262b16500?dataset-only" height="400"></iframe></a>
+```
+
 ### Disabling proxy
 To fetch informations about the services despite Criss-Origin issues, OpenCatalog uses a proxy. However, this prevent the OpenCatalog to query "local" services (any services only available locally : local computer or intern server). To access those services from the site, the proxy must be disabled.
 

@@ -9,9 +9,10 @@ Publiée en décembre 2020 :
 ### OpenCatalog
 
 * refonte complète de l'OpenCatalog en utilisant la bibliothèque JavaScript React
-* passage de l'API cartographique [OpenLayers](https://openlayers.org/)
-* amélioration de la visualisation de couches issues de géoservice
+* passage à l'API cartographique [OpenLayers](https://openlayers.org/)
+* amélioration de la visualisation de couches issues de géoservices
 * amélioration de l'extraction des Feature Services
+* meilleure prise en compte des services ESRI (Esri Feature Service et Esri Map Service)
 * ajout d'un nouveau paramètre d'URL `dataset-only` permettant de masquer les geoservices dans les résultats de l'OpenCatalog
 
 <!-- /timeline -->
