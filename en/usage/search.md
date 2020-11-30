@@ -7,10 +7,24 @@ There are two tools to filter datasets :
 * A search bar
 
 ### Filter widget
+It is possible to filter by the following criteria :
+* An input text contained in : title, name, abstract, layer name or attribute name in attribute table,
+* the owner if data from multiple work groups are shared,
+* one or more Isogeo keywords,
+* data type,
+* data format,
+* coordinates system,
+* one or more Inspire themes,
+* one or more action,
+* one or more license,
+* one or more contact.
 
-The filters are applied following a 'strict and' rule, meaning all criteria must be met in order for the data to be displayed.
+Once a filter is selected, the result number as well as other possible filter values are updated. If a new filter is selected and there is only one value in another filter, this filter is automatically selected.
 
 ![FilterWidget](/assets/usage/filterWidget.PNG)
+
+#### Other
+The filters are applied following a 'strict and' rule, meaning all criteria must be met in order for the data to be displayed.
 
 ### Search Bar
 
@@ -18,6 +32,8 @@ A search bar is also available
 ![Search bar](/assets/usage/researchBar.png)
 
 #### How to use : Autocomplete
+
+To use the autocomplete search bar, start by adding the tags followed by the input text.
 
 #### How to use : Tag nomenclature
 It is also possible to use directly the Isogeo tag nomenclature to query data.
@@ -38,8 +54,9 @@ For instance, querying the string `coordinate-system:2154 action:download` rende
 
 This nomenclature is used in URL when a query is made.
 
-#### Characteristics
-As well as the filter widget, the data are displayed only if all criteria are met.
+#### Other
+* As well as the filter widget, the data are displayed only if all criteria are met.
+* Warning : Unlike the filter widget, the "Undefined" value is possible for every field even if no data meet this specific criterion as long as no other value is selected for this field.
 
 ## Sort
 Data can be sorted using two criteria :
