@@ -8,16 +8,16 @@ Publiée en décembre 2020 :
 
 ### OpenCatalog
 
-* refonte complète de l'OpenCatalog en utilisant la bibliothèque JavaScript React
+* refonte complète de l'OpenCatalog en utilisant la bibliothèque JavaScript React et le framework NextJs
 * passage à l'API cartographique [OpenLayers](https://openlayers.org/)
 * amélioration des actions :
   * visualisation possibles pour serveurs ArcGisServer, GeoServer, QgisServer pour des données de type OGC (WFS, WMS, WMTS) et ESRI (Esri Feature Service et Esri Map Service)
   * amélioration de l'extraction des Feature Services en proposant tous les systèmes de coordonnées
   * meilleure prise en compte des services ESRI (Esri Feature Service et Esri Map Service)
-* ajout d'un nouveau paramètre d'URL `dataset-only` permettant de masquer les geoservices dans les résultats de l'OpenCatalog
+* ajout d'un nouveau paramètre d'URL `dataset-only` permettant de masquer les geoservices et les ressources dans les résultats de l'OpenCatalog
 * modification de la répartitions des ressources associées
-* ajout du filtre contact dans le widget de filtre
-* modification de gestion des cookies pour intégration en Iframe dans un site ArcGis peu importe les paramètres Navigateur
+* ajout du filtre contact dans le module de filtre
+* modification de la gestion des cookies pour intégration en Iframe, peu importe les paramètres Navigateur
 
 <!-- /timeline -->
 
