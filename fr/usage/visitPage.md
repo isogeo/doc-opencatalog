@@ -71,7 +71,7 @@ Pour les Feature Services, l'affichage des informations sémantiques d'une géom
 ### Extraction dynamique dans l'OpenCatalog
 De même, l'extraction est possible pour tous les Feature Services respectant les conditions d'exploitation.
 
-![Extraire](/assets/usage/extract.PNG)
+![Extraire](/assets/usage/extract.png)
 
 Selon les capacités du serveur associé, OpenCatalog génère un formulaire d'extraction automatisée. Le formulaire propose alors l'extraction en tous les formats d'intérêt disponibles et tous les systèmes de coordonnées disponibles pour la couche.
 

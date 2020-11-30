@@ -11,7 +11,7 @@ Pour accéder à un OpenCatalog, les navigateurs supportés sont :
 * Google Chrome 86 et + ;
 * Edge 86 et + ;
 
-![Navigateurs supportés](/assets/requirements/supportedBrowsers.PNG =250x)
+![Navigateurs supportés](/assets/requirements/supportedBrowsers.PNG)
 
 ## Connexion Internet
 

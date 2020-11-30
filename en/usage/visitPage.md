@@ -71,7 +71,7 @@ For Feature Services, the semantic informations of a geometry are displayed in a
 ### Export services
 Extracting services is possible for every Feature Services satisfying the conditions of use.
 
-![Extract](/assets/usage/extract.PNG)
+![Extract](/assets/usage/extract.png)
 
 Depending on the capabilities of the server, OpenCatalog generate a extraction form. The form offer every formats of interest available as well as all the layer's available coordinates systems.
 
