@@ -2,6 +2,22 @@
 
 <!-- timeline -->
 
+## 3.1.0 {#v310}
+
+Publiée en décembre 2020 :
+
+### OpenCatalog
+
+* refonte complète de l'OpenCatalog en utilisant la bibliothèque JavaScript React
+* passage de l'API cartographique [OpenLayers](https://openlayers.org/)
+* amélioration de la visualisation de couches issues de géoservice
+* amélioration de l'extraction des Feature Services
+* ajout d'un nouveau paramètre d'URL `dataset-only` permettant de masquer les geoservices dans les résultats de l'OpenCatalog
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
 ## 2.3.2 {#v232}
 
 Publiée en décembre 2017 :
