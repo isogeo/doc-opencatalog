@@ -13,6 +13,8 @@ To access an OpenCatalog, the following browsers are supported:
 
 ![Supported browsers](/assets/requirements/supportedBrowsers.PNG)
 
+> Tip: if you or your users do not have the necessary permissions to update the browser, you can use the portable edition (requiring no installation, but with reduced performance) of [Mozilla Firefox](http://portableapps.com/apps/internet/firefox_portable/localization).
+
 ## Internet connection
 
 A minimum Internet download speed of **500 Kilobits per second** is required for accessing OpenCatalog

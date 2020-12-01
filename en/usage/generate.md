@@ -36,7 +36,7 @@ To use this mode, simply add ``?no-header`` to the URL.
 
 For instance, to integrate the demonstration OpenCatalog, use the following code :
 ```
-<iframe src="https://open.isogeo.com/s/344d51c3edfb435daf9d98d948fa207e/Sbd1w7PgqE8n7LDq3azRqNhiMHZf0?no-header" width=100% height="800"></iframe>
+<iframe src="https://open.isogeo.com/s/8d491301f61249139918e3710cd39eb7/wak8OBU2hQX6F6rtIe3fWiRCvzFH0?no-header" width=100% height="800"></iframe>
 ```
 
 ### Integrating a single page
@@ -51,7 +51,7 @@ To use it, simply add ``?lock`` at the end of the web address.
 
 For instance :
 ```
-<iframe src="http://open.isogeo.com/s/344d51c3edfb435daf9d98d948fa207e/Sbd1w7PgqE8n7LDq3azRqNhiMHZf0/m/754209f115c040a48d43ffc262b16500?lock" height="400"></iframe></a>
+<iframe src="https://open.isogeo.com/s/8d491301f61249139918e3710cd39eb7/wak8OBU2hQX6F6rtIe3fWiRCvzFH0?lock" height="400"></iframe></a>
 ```
 
 ### Remove services and resources
@@ -68,7 +68,7 @@ To use it, simply add ``?dataset-only`` at the end of the web address.
 
 For instance :
 ```
-<iframe src="http://open.isogeo.com/s/344d51c3edfb435daf9d98d948fa207e/Sbd1w7PgqE8n7LDq3azRqNhiMHZf0/m/754209f115c040a48d43ffc262b16500?dataset-only" height="400"></iframe></a>
+<iframe src="https://open.isogeo.com/s/8d491301f61249139918e3710cd39eb7/wak8OBU2hQX6F6rtIe3fWiRCvzFH0" height="400"></iframe></a>
 ```
 
 ### Disabling proxy
@@ -77,7 +77,7 @@ To fetch informations about the services despite Criss-Origin issues, OpenCatalo
 #### How to use
 To use this mode, just add ``?no-proxy`` at the end of the link. For instance, to integrate the demonstration catalog.
 ```
-<iframe src="https://open.isogeo.com/s/344d51c3edfb435daf9d98d948fa207e/Sbd1w7PgqE8n7LDq3azRqNhiMHZf0?no-proxy" width=100% height="400"></iframe>
+<iframe src="https://open.isogeo.com/s/8d491301f61249139918e3710cd39eb7/wak8OBU2hQX6F6rtIe3fWiRCvzFH0?no-proxy" width=100% height="400"></iframe>
 ```
 #### Enable Cross Origin
 Disabling the proxy might cause CORS issues. Therefor the server associated must recognize the OpenCatalog as allowed to access the server.

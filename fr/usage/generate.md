@@ -36,7 +36,7 @@ Pour utiliser ce mode, il suffit d'ajouter ``?no-header`` en paramètre à l'URL
 
 Par exemple, pour intégrer l'OpenCatalog de démonstration :
 ```
-<iframe src="https://open.isogeo.com/s/344d51c3edfb435daf9d98d948fa207e/Sbd1w7PgqE8n7LDq3azRqNhiMHZf0?no-header" width=100% height="800"></iframe>
+<iframe src="https://open.isogeo.com/s/8d491301f61249139918e3710cd39eb7/wak8OBU2hQX6F6rtIe3fWiRCvzFH0?no-header" width=100% height="800"></iframe>
 ```
 
 ### Intégrer une page unique
@@ -51,7 +51,7 @@ Pour utiliser ce mode, il suffit d'ajouter ``?lock`` à la fin de l'adresse.
 
 Par exemple :
 ```
-<iframe src="http://open.isogeo.com/s/344d51c3edfb435daf9d98d948fa207e/Sbd1w7PgqE8n7LDq3azRqNhiMHZf0/m/754209f115c040a48d43ffc262b16500?lock" height="400"></iframe></a>
+<iframe src="https://open.isogeo.com/s/8d491301f61249139918e3710cd39eb7/wak8OBU2hQX6F6rtIe3fWiRCvzFH0?lock" height="400"></iframe></a>
 ```
 
 ### Retirer les services et ressources
@@ -68,7 +68,7 @@ Pour utiliser ce mode, il suffit d'ajouter ``?dataset-only`` à la fin de l'adre
 
 Par exemple :
 ```
-<iframe src="http://open.isogeo.com/s/344d51c3edfb435daf9d98d948fa207e/Sbd1w7PgqE8n7LDq3azRqNhiMHZf0/m/754209f115c040a48d43ffc262b16500?dataset-only" height="400"></iframe></a>
+<iframe src="https://open.isogeo.com/s/8d491301f61249139918e3710cd39eb7/wak8OBU2hQX6F6rtIe3fWiRCvzFH0?dataset-only" height="400"></iframe></a>
 ```
 
 ### Désactiver le proxy
@@ -77,7 +77,7 @@ Pour récupérer les informations liées aux services cartographiques malgré le
 #### Utilisation du mode no-proxy
 Pour utiliser ce mode, il suffit d'ajouter ```?no-proxy``` à la suite du lien. Par exemple, pour intégrer le catalogue de démonstration :
 ```
-<iframe src="https://open.isogeo.com/s/344d51c3edfb435daf9d98d948fa207e/Sbd1w7PgqE8n7LDq3azRqNhiMHZf0?no-proxy" width=100% height="400"></iframe>
+<iframe src="https://open.isogeo.com/s/8d491301f61249139918e3710cd39eb7/wak8OBU2hQX6F6rtIe3fWiRCvzFH0?no-proxy" width=100% height="400"></iframe>
 ```
 #### Autoriser les requêtes Cross Origin
 Désactiver le porxy peut causer des problèmes de Cross Origin. C'est pourquoi  il faut autoriser l'accès au server à l'OpenCatalog :
