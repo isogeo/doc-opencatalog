@@ -16,4 +16,9 @@ The latest version was developped using the framework [NextJs](https://nextjs.or
 
 ![Technologies used](/assets/historic/technologies_used.png)
 
+## Version
+The site version is written at the right bottom of every page of [https://open.isogeo.com/](https://open.isogeo.com/)
+
+![OpenCatalog Version](/assets/historic/version_oc.PNG)
+
 Last modification : **{{ gitbook.time | date("DD/MM/YYYY") }}**.

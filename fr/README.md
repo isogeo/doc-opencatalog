@@ -16,4 +16,9 @@ Cette dernière version a été développée avec le framework [NextJs](https://
 
 ![Technologies utilisées](/assets/historic/technologies_used.png)
 
+## Version
+La version de l'application est indiquée en bas à droit de chaque page de [https://open.isogeo.com/](https://open.isogeo.com/).
+
+![Version de l'OpenCatalog](/assets/historic/version_oc.PNG)
+
 Date de la dernière mise à jour de cette documentation : **{{ gitbook.time | date("DD/MM/YYYY") }}**.
