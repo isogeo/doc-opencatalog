@@ -11,6 +11,10 @@ Pour accéder à un OpenCatalog, les navigateurs supportés sont :
 * Google Chrome 86 et + ;
 * Edge 86 et + ;
 
+![Navigateurs supportés](/assets/requirements/supportedBrowsers.PNG)
+
+> Astuce : si vous ou vos utilisateurs ne possèdent pas les droits suffisants pour mettre à jour le navigateur, vous pouvez utiliser une version portable (sans installation mais aux performances réduites) de [Mozilla Firefox](http://portableapps.com/apps/internet/firefox_portable/localization).
+
 ## Connexion Internet
 
 Un débit descendant minimum de **500 Kb/s** est requis pour accéder à OpenCatalog.
