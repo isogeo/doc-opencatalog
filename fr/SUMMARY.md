@@ -13,5 +13,4 @@
 
 ## Annexes
 
-* [Publier des OC pour des usages différents](appendices/oc_different_uses.md)
 * [Notes de version](appendices/version_notes.md)
