@@ -21,7 +21,7 @@ L'URL de consultation de l'OpenCatalog apparaît alors.
 
 ## Paramétrer la couleur
 
-Il est possible d'intégrer l'OpenCatalog directement dans un site. Si vous souhaitez intégrer au mieux l'OpenCatalog dans la charte graphique de votre organisme, vous pouvez sélectionner la couleur principale du thème. Cette opération s'effectue dans le menu d'administration de la plateforme. 
+Il est possible d'intégrer l'OpenCatalog directement dans un site. Si vous souhaitez intégrer au mieux l'OpenCatalog dans la charte graphique de votre organisme, vous pouvez sélectionner la couleur principale du thème. Cette opération s'effectue dans le menu d'administration de la plateforme.
 
 Pour changer la couleur principale du thème :
 
@@ -82,7 +82,7 @@ Pour récupérer les informations liées aux services cartographiques malgré le
 
 #### Utilisation du mode no-proxy {#no-proxy}
 
-Pour utiliser ce mode, il suffit d'ajouter `?no-proxy` à la fin de l'url. 
+Pour utiliser ce mode, il suffit d'ajouter `?no-proxy` à la fin de l'url.
 
 Par exemple :
 
@@ -94,7 +94,7 @@ Par exemple :
 
 Désactiver le proxy peut causer des problèmes de [Cross-Origin](https://developer.mozilla.org/fr/docs/Web/HTTP/CORS). C'est pourquoi, il faut autoriser l'accès au serveur à l'OpenCatalog :
 
-```
+```bash
 Access-Control-Allow-Origin: https://open.isogeo.com
 ```
 

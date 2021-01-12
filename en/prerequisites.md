@@ -3,6 +3,7 @@ description: Présentation générale des prérequis pour l'installation de l'Op
 ---
 
 # Requirements {#requirements}
+
 ## Supported browser
 
 To access an OpenCatalog, the following browsers are supported:
@@ -20,6 +21,7 @@ To access an OpenCatalog, the following browsers are supported:
 A minimum Internet download speed of **500 Kilobits per second** is required for accessing OpenCatalog
 
 ## Supported services
+
 It is possible to visualize data fetched from cartographic services. The following services can be used in the OpenCatalog :
 
 * Feature Services (both Esri Feature Service and OGC Feature Service, WFS) allowing GetFeature request in geojson/json output.

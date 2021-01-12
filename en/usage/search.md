@@ -1,13 +1,18 @@
 # Search
+
 OpenCatalog has a search engine as well as a filter width allowing quick access to the desired metadata page, making it possible to find one or more specific data.
 
 ## Filters
+
 There are two tools to filter datasets :
+
 * A filter widget
 * A search bar
 
 ### Filter widget
+
 It is possible to filter by the following criteria :
+
 * An input text contained in : title, name, abstract, layer name or attribute name in attribute table,
 * the owner if data from multiple work groups are shared,
 * one or more Isogeo keywords,
@@ -24,6 +29,7 @@ Once a filter is selected, the result number as well as other possible filter va
 ![FilterWidget](/assets/usage/filterWidget.PNG)
 
 #### Other
+
 The filters are applied following a 'strict and' rule, meaning all criteria must be met in order for the data to be displayed.
 
 ### Search Bar
@@ -36,6 +42,7 @@ A search bar is also available
 To use the autocomplete search bar, start by adding the tags followed by the input text.
 
 #### How to use : Tag nomenclature
+
 It is also possible to use directly the Isogeo tag nomenclature to query data.
 
 | Field | Query nomenclature |
@@ -55,10 +62,13 @@ For instance, querying the string `coordinate-system:2154 action:download` rende
 This nomenclature is used in URL when a query is made.
 
 #### Other
+
 * As well as the filter widget, the data are displayed only if all criteria are met.
 * Warning : Unlike the filter widget, the "Undefined" value is possible for every field even if no data meet this specific criterion as long as no other value is selected for this field.
 
 ## Sort
+
 Data can be sorted using two criteria :
+
 * sort order : descendant and ascendant
 * sort object : alphabetic order, relevence, metadata last update and data last update

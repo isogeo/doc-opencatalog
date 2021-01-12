@@ -25,7 +25,7 @@ Un débit descendant minimum de **500 Kb/s** est requis pour accéder à OpenCat
 L'OpenCatalog permet l'exploitation des services cartographiques pour visualiser et extraire les données. Les services suivants peuvent être exploités :
 
 * les services de type Feature issues d'un service OGC, WFS ou Esri, Esri Feature Service autorisant l'extraction des données au format json/geojson ou GML3,
-* les services de type Map issues d'un service OGC, WMS, ou Esri, Esri Map Service, 
+* les services de type Map issues d'un service OGC, WMS, ou Esri, Esri Map Service,
 * les services tuilées issues d'un service OGC, WMTS.
 
 Les services en question doivent être ouverts pour être accessibles depuis l'OpenCatalog (sauf avec le [mode no-proxy](/usage/generate.md#no-proxy) pour les services internes non soumis à authentification).

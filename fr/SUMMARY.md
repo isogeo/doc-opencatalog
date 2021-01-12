@@ -13,4 +13,5 @@
 
 ## Annexes
 
+* [FAQ erreurs de visualisation](appendices/faq_visualisation_errors.md)
 * [Notes de version](appendices/version_notes.md)
