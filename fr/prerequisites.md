@@ -26,6 +26,6 @@ L'OpenCatalog permet l'exploitation des services cartographiques pour visualiser
 
 * les services de type Feature issues d'un service OGC, WFS ou Esri, Esri Feature Service autorisant l'extraction des données au format json/geojson ou GML3,
 * les services de type Map issues d'un service OGC, WMS, ou Esri, Esri Map Service,
-* les services tuilées issues d'un service OGC, WMTS.
+* les services tuilées issues d'un service OGC, WMTS ou d'un service Esri, Esri Tile Service.
 
 Les services en question doivent être publics et ouverts pour être accessibles depuis l'OpenCatalog en mode de base. Le [mode no-proxy](/usage/generate.md#no-proxy) permet cependant d'accès à la visualisation et l'extraction des services internes non publics (locaux) non soumis à une authentification. 
