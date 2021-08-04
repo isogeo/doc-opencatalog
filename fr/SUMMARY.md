@@ -13,5 +13,6 @@
 
 ## Annexes
 
+* [Publier selon l'usage](appendices/oc_different_uses.md)
 * [FAQ erreurs de visualisation](appendices/faq_visualisation_errors.md)
 * [Notes de version](appendices/version_notes.md)
