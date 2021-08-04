@@ -32,17 +32,17 @@ Dans l’ordre, nous avons :
 
 5. Associé à la fiche de submersion marine le flux WFS renseigné dans la fiche sur le serveur WFS ;
 
-6. Crée un partage OpenCatalog pour le grand public dans lequel on a mis le catalogue GéoLittoral sans le catalogue « averti » ou « interne » : [la fiche est consultable ici](http://open.isogeo.com/s/14cbb8fce4fd471ab3af9fb849d0dcd1/GbhLhG7hoNFHdkrgh8n9o9I3Sym20/m/cb71d8f42ba44788b348b5bc9f79e58c).
+6. Crée un partage OpenCatalog pour le grand public dans lequel on a mis le catalogue GéoLittoral sans le catalogue « averti » ou « interne » : 
 
-    ![Submersion marine 0](/assets/adm_shares_OC_demo_Geolittoral0.png "Seul le lien de téléchargement des données est disponible")
+    ![Submersion marine 0](/assets/appendices/adm_shares_OC_demo_Geolittoral0.png "Seul le lien de téléchargement des données est disponible")
 
-7. Créé un partage OpenCatalog pour les utilisateurs avertis grand public dans lequel on a mis le catalogue GéoLittoral avec le catalogue « utilisateurs avertis » : [la fiche est consultable ici](http://open.isogeo.com/s/4e3617fa59674e8b98b4d9a62a6ad6e7/oOGYrOxAMjf11jYmo6hbbeGNG2TC0/m/cb71d8f42ba44788b348b5bc9f79e58c).
+7. Créé un partage OpenCatalog pour les utilisateurs avertis grand public dans lequel on a mis le catalogue GéoLittoral avec le catalogue « utilisateurs avertis » : 
 
-    ![Submersion marine 1](/assets/adm_shares_OC_demo_Geolittoral1.png "En plus du lien de téléchargement, on a accès au WMS")
+    ![Submersion marine 1](/assets/appendices/adm_shares_OC_demo_Geolittoral1.png "En plus du lien de téléchargement, on a accès au WMS")
 
-8. Créé un partage OpenCatalog pour l&apos;interne dans lequel on a mis le catalogue GéoLittoral avec le catalogue « utilisateurs avertis (niveau 1)» et le catalogue « agents internes (niveau 2)» : [la fiche est consultable ici](http://open.isogeo.com/s/d61fe9892eb345e7b6840bbfc4cf5733/zuD9LtBEXRi7ynIXyRyWIy4hC0xz0/m/cb71d8f42ba44788b348b5bc9f79e58c).
+8. Créé un partage OpenCatalog pour l&apos;interne dans lequel on a mis le catalogue GéoLittoral avec le catalogue « utilisateurs avertis (niveau 1)» et le catalogue « agents internes (niveau 2)» : 
 
-    ![Submersion marine 2](/assets/adm_shares_OC_demo_Geolittoral2.png "Accès aux 3 ressources : téléchargement, WMS et WFS")
+    ![Submersion marine 2](/assets/appendices/adm_shares_OC_demo_Geolittoral2.png "Accès aux 3 ressources : téléchargement, WMS et WFS")
 
 ### Résultat {#result}
 
@@ -50,14 +50,14 @@ Dans l’ordre, nous avons :
 
 * Une interface de consultation où il n’est possible que de télécharger les données brutes ;
 
-    ![Submersion marine 0](/assets/OC_Demo_Submersion_Niv0.png "Seul le lien de téléchargement des données est disponible")
+    ![Submersion marine 0](/assets/appendices/OC_Demo_Submersion_Niv0.png "Seul le lien de téléchargement des données est disponible")
 
 * Une interface de consultation où il est possible de :
 
   * télécharger les données brutes ;
   * et afficher la couche via un flux WMS ;
 
-    ![Submersion marine 1](/assets/OC_Demo_Submersion_Niv1.png "En plus du lien de téléchargement, on a accès au WMS")
+    ![Submersion marine 1](/assets/appendices/OC_Demo_Submersion_Niv1.png "En plus du lien de téléchargement, on a accès au WMS")
 
 * Une interface de consultation où il est possible de :
 
@@ -65,7 +65,7 @@ Dans l’ordre, nous avons :
   * afficher la couche via un flux WMS ;
   * et afficher les données via un flux WFS
 
-    ![Submersion marine 2](/assets/OC_Demo_Submersion_Niv2.png "Accès aux 3 ressources : téléchargement, WMS et WFS")
+    ![Submersion marine 2](/assets/appendices/OC_Demo_Submersion_Niv2.png "Accès aux 3 ressources : téléchargement, WMS et WFS")
 
 ### Schéma {#schema}
 
@@ -79,4 +79,4 @@ Dans l’ordre, nous avons :
 
 Bonne pratique : créer un catalogue des ressources par niveau d&apos;usage.
 
-![Schéma affichage différencié](/assets/resources_DifferentDisplays_schema.png "Accès aux 3 ressources : téléchargement, WMS et WFS")
+![Schéma affichage différencié](/assets/appendices/resources_DifferentDisplays_schema.png "Accès aux 3 ressources : téléchargement, WMS et WFS")
