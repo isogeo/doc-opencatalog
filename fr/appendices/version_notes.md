@@ -2,11 +2,24 @@
 
 <!-- timeline -->
 
-## 3.1.0 {#v310}
+## 3.0.1
+
+Publiée en août 2021 :
+
+### Modifications
+
+* utilisation API REST spécifique aux traitements liées des données géographiques
+* affichage des Esri Tile Services
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 3.0.0 {#v300}
 
 Publiée en décembre 2020 :
 
-### OpenCatalog
+### Modifications
 
 * refonte complète de l'OpenCatalog en utilisant la bibliothèque JavaScript React et le framework NextJs
 * passage à l'API cartographique [OpenLayers](https://openlayers.org/)
@@ -27,7 +40,7 @@ Publiée en décembre 2020 :
 
 Publiée en décembre 2017 :
 
-### OpenCatalog
+### Modifications
 
 * ajout d'un nouveau paramètre' d&apos;URL `no-proxy` à OpenCatalog permettant de passer outre les proxies intégrés afin de consommer les services internes
 
