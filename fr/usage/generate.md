@@ -109,7 +109,7 @@ Les différences suivantes sont à noter par rapport à la version par défaut :
 * La barre de titre est retirée
 * La navigation d'une page à une autre est désactivée : il est donc impossible de retourner vers la liste des données du catalogue, de cliquer sur un mot-clé ou encore de se rendre sur une autre fiche associée.  
 
-### Mode lock
+### Mode lock {#lock}
 
 Pour utiliser ce mode, il suffit d'ajouter ``?lock`` à la fin de l'adresse de l'url de la fiche.
 
