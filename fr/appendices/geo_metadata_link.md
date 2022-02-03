@@ -7,7 +7,7 @@ description: Ajouter les métadonnées de l'OpenCatalog aux couches publiées av
 La solution `GEO Générateur` de Business Geographic permet de publier des cartographies interactives contenant différentes sources de données géographiques. Lors de l'intégration d'une donnée dans `GEO Générateur`, il est possible d'intégrer une url qui pointe vers la métadonnée. Pour remplir ce champ, il suffit de récupérer l'url de l'Opencatalog de la fiche de métadonnées correspondante en mode `?lock` (cf. [Intégrer une page unique en mode lock](/usage/generate.md#lock)).
 
 1. Ouvrir `GEO Générateur` ;
-2. Dans la partie `Données`, on retrouve la liste des données sous forme de tables, de fonds de plan etc...
+2. Dans la partie `Données`, on retrouve la liste des tables ou des fonds de plan ;
 ![Afficher les données](/assets/appendices/geo_tables.jpg)
 3. Ajouter une table ou sélectionner une table ;
 4. Ouvrir l'onglet `Infos` ;
