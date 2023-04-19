@@ -2,6 +2,20 @@
 
 <!-- timeline -->
 
+## 3.0.9
+
+Publiée en avril 2022 :
+
+### Modifications
+
+* amélioration de la gestion des associations multiples couches-données
+* changement de l'affichage des données tabulaires non géographiques
+* corrections de bugs
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
 ## 3.0.1
 
 Publiée en août 2021 :
