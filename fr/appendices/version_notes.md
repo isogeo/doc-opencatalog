@@ -4,13 +4,102 @@
 
 ## 3.0.9
 
-Publiée en avril 2022 :
+Publiée en avril 2023 :
 
 ### Modifications
 
 * amélioration de la gestion des associations multiples couches-données
 * changement de l'affichage des données tabulaires non géographiques
-* corrections de bugs
+* correction de bugs
+
+<!-- /timeline -->
+
+
+<!-- timeline -->
+
+## 3.0.8
+
+Publiée en janvier 2023
+
+### Modifications
+
+* adaptations pour la version on premises
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 3.0.7
+
+Publiée en novembre 2022
+
+### Modifications
+
+* amélioration de la gestion des logs
+* correction de bugs
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 3.0.6
+
+Publiée en septembre 2022
+
+### Modifications
+
+* correction de bugs
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 3.0.5
+
+Publiée en juin 2022
+
+### Modifications
+
+* correction de bugs
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 3.0.4
+
+Publiée en avril 2022
+
+### Modifications
+
+* prise en compte des données tabulaires non géographiques
+* amélioration de l'interface
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 3.0.3
+
+Publiée en janvier 2022
+
+### Modifications
+
+* ajout de l'utilisation des thématiques
+* affichage des alias d'attribut/commentaires de table
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 3.0.3
+
+Publiée en novembre 2021
+
+### Modifications
+
+* amélioration de la gestion des emprises
+* correction de bugs
 
 <!-- /timeline -->
 
