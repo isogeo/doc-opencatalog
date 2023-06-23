@@ -2,6 +2,18 @@
 
 <!-- timeline -->
 
+## 3.0.11
+
+Publiée en juin 2023 :
+
+### Modifications
+
+* modification du proxy de l'application
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
 ## 3.0.9
 
 Publiée en avril 2023 :
