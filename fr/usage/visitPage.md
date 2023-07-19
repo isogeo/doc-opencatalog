@@ -41,7 +41,7 @@ Les champs disponibles dépendent du type de la donnée. Pour chaque type de don
 | Restriction | x | x | x | x |
 | Directive | x | x | x | x |
 | Description | x | x | x | x |
-| **Attriuts** | - | - | - | - |
+| **Attributs** | - | - | - | - |
 | Table d'attributs | x | x |  |  |
 | **Informations techniques** | - | - | - | - |
 | Système de coordonnées | x | x |  |  |
