@@ -16,7 +16,7 @@ Publiée en août 2023 :
 
 ## 3.0.12
 
-Publiée en juin 2023 :
+Publiée en juillet 2023 :
 
 ### Modifications
 
