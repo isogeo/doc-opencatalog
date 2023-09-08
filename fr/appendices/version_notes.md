@@ -2,6 +2,30 @@
 
 <!-- timeline -->
 
+## 3.0.13
+
+Publiée en août 2023 :
+
+### Modifications
+
+* Correctifs de bugs
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 3.0.12
+
+Publiée en juin 2023 :
+
+### Modifications
+
+* Correctifs de bugs
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
 ## 3.0.11
 
 Publiée en juin 2023 :
