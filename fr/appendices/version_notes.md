@@ -2,13 +2,25 @@
 
 <!-- timeline -->
 
+## 3.0.16
+
+Publiée en novembre 2023 :
+
+### Modifications
+
+* Modifications de l'interface
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
 ## 3.0.15
 
 Publiée en novembre 2023 :
 
 ### Modifications
 
-* Modification de l'interface
+* Modifications de l'interface
 
 <!-- /timeline -->
 
