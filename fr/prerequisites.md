@@ -18,7 +18,7 @@ Pour accéder à un OpenCatalog, les navigateurs supportés sont :
 
 ## Connexion Internet
 
-Un débit descendant minimum de **500 Kb/s** est requis pour accéder à OpenCatalog.
+En mode SaaS, un débit descendant minimum de **500 Kb/s** est requis pour accéder à OpenCatalog.
 
 ## Services géographiques pris en charge
 
@@ -28,6 +28,8 @@ L'OpenCatalog permet l'exploitation des couches de services cartographiques pour
 * les services de type Map issues d'un service OGC, WMS, ou Esri, Esri Map Service,
 * les services tuilées issues d'un service OGC, WMTS ou d'un service Esri, Esri Tile Service.
 
-Les services en question doivent être publics et ouverts pour être accessibles depuis l'OpenCatalog en mode de base. Le [mode no-proxy](/usage/generate.md#no-proxy) permet cependant d'accès à la visualisation et l'extraction des services internes non publics (locaux) non soumis à une authentification. 
+Par défaut, les services en question doivent être publics et ouverts pour être accessibles depuis l'OpenCatalog. Cependant, le [mode no-proxy](/usage/generate.md#no-proxy) permet l'accès à la visualisation et l'extraction des services accessibles sur le réseau interne de l'organisme s'ils ne sont pas soumis à une authentification.
+
+> NB : En mode On-premises, les services doivent être accessibles sur la machine hébergeant l'Opencatalog. 
 
 Les groupes de couche ne sont pas actuellement pris en compte, seules les couches sont exploitables. 

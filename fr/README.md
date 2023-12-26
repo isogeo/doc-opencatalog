@@ -4,7 +4,7 @@ description: Présentation de l'OpenCatalog
 
 # OpenCatalog
 
-L'OpenCatalog est un site web hébergé par Isogeo, qui permet de consulter un catalogue fiches de métadonnées de manière simple et ergonomique. L'OpenCatalog se génère en quelques clics sur la plateforme Isogeo.
+L'OpenCatalog est un site web hébergé par Isogeo en mode SaaS, qui permet de consulter un catalogue fiches de métadonnées de manière simple et ergonomique. L'OpenCatalog se génère en quelques clics sur la plateforme Isogeo.
 
 Consulter notre OpenCatalog de démonstration : <http://open.isogeo.com/s/8d491301f61249139918e3710cd39eb7/wak8OBU2hQX6F6rtIe3fWiRCvzFH0>
 
@@ -24,7 +24,7 @@ Cette dernière version a été développée avec le framework [NextJs](https://
 
 ## Version
 
-La version de l'application est indiquée en bas à droit de chaque page de [https://open.isogeo.com/](https://open.isogeo.com/).
+La version de l'application est indiquée en bas à droite de chaque page du site.
 
 ![Version de l'OpenCatalog](/assets/historic/version_oc.PNG)
 

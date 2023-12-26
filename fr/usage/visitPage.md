@@ -90,6 +90,6 @@ De même, l'extraction est possible pour tous les Feature Services respectant le
 
 ![Extraire](/assets/usage/extract.png)
 
-Selon les capacités du serveur associé, l'OpenCatalog génère un formulaire d'extraction automatisée. Le formulaire propose alors l'extraction vers tous les formats et tous les systèmes de coordonnées disponibles pour la couche concernée.
+Selon les capacités du serveur associé, l'OpenCatalog génère un formulaire d'extraction automatisé. Le formulaire propose alors l'extraction vers tous les formats et tous les systèmes de coordonnées disponibles pour la couche concernée.
 
 ![Formulaire d'extraction](/assets/usage/extractionModal.PNG)

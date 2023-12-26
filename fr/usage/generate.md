@@ -19,6 +19,8 @@ L'URL de consultation de l'OpenCatalog apparaît alors.
 
 ![Gérer les OpenCatalog](/assets/usage/generateOC.PNG)
 
+> NB : En mode On-premises, l'URL de l'Opencatalog aura le même domaine que celui de la plateforme d'administration.
+
 ## Paramétrer la couleur
 
 Il est possible d'intégrer l'OpenCatalog directement dans un site. Si vous souhaitez intégrer au mieux l'OpenCatalog dans la charte graphique de votre organisme, vous pouvez sélectionner la couleur principale du thème. Cette opération s'effectue dans le menu d'administration de la plateforme.
