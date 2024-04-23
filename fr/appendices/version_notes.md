@@ -2,6 +2,18 @@
 
 <!-- timeline -->
 
+## 3.0.19
+
+Publiée en avril 2024 :
+
+### Modifications
+
+* Modification des figurés de certains types d'emprise
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
 ## 3.0.16
 
 Publiée en novembre 2023 :
